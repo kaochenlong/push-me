@@ -1,24 +1,5 @@
-# README
+# 按我
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+上課的時候，常不知道學生是不是都有完成進度嗎？試試看「按我」吧！
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+by eddie@5xruby.tw
